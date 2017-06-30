@@ -1,5 +1,5 @@
 # simd-blog
-Source code for SIMD benchmarks and experiments in Java.
+Source code for SIMD benchmarks and experiments in Java. Results were originally published on [prestodb.rocks](http://prestodb.rocks/code/simd/) blog.
 
 To compile and run:
 
